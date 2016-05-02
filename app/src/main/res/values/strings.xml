@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Peliculas actuales</string>
+
+    <string name="agregar_pelicula">agregar_pelicula</string>
+    <string name="modificar_posicion">modificar_posicion</string>
+    <string name="eliminar_pelicula">eliminar_pelicula</string>
+    <string name="cambiar_idioma">Cambiar Idioma</string>
+
+
+    <string name="titulo">Título</string>
+    <string name="year">Año</string>
+    <string name="url">Url</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="aceptar">Aceptar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento blanco</string>
+
+    <string name="texto_detalle_de_pelicula">Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores decide embarcarse en la que puede ser la misión más importante de la historia de la humanidad y emprender un viaje más allá de nuestra galaxia en el
+    que descubrirán si las estrellas pueden albergar el futuro de la raza humana…</string>
+    <string name="descripcion_imagen_detalle">descripcion_imagen_detalle</string>
+    <string name="ir_a_trailer">ir_a_trailer</string>
+</resources>
